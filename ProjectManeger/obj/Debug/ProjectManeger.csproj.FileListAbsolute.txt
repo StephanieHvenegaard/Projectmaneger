@@ -1,0 +1,15 @@
+c:\users\sh\documents\visual studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\ProjectManeger.exe.config
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\ProjectManeger.exe
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\ProjectManeger.pdb
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\MetroFramework.Design.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\MetroFramework.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.csprojResolveAssemblyReference.cache
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.Properties.Resources.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.csproj.GenerateResource.Cache
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.exe
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.pdb
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.Forms.Main.resources
+C:\Users\sh\documents\visual studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManeger.Forms.Settings.resources
+C:\Users\sh\documents\visual studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\GeneralUtillites.dll
+C:\Users\sh\documents\visual studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\GeneralUtillites.pdb

@@ -1,0 +1,41 @@
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\GeneralUtillites.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\MetroFramework.Design.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\MetroFramework.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\GeneralUtillites.pdb
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\ProjectManager25.exe.config
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\ProjectManager25.exe
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\ProjectManager25.pdb
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.ProjectOverview.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.Main.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.Settings.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.WorkCounter.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Properties.Resources.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.exe
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.pdb
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.NewModuleForm.resources
+C:\Users\sh\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.NewProjectForm.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\GeneralUtillites.dll
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\GeneralUtillites.pdb
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.AddStep.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.NewModuleForm.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.NewProjectForm.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.ProjectOverview.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.Main.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.Settings.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.WorkCounter.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Properties.Resources.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\ProjectManager25.Forms.ProjectScanning.resources
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\Project Manager 2.exe.config
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\Project Manager 2.exe.manifest
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\Project Manager 2.application
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\Project Manager 2.exe
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\bin\Debug\Project Manager 2.pdb
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\Project Manager 2.exe.manifest
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\Project Manager 2.application
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\Project Manager 2.exe
+C:\Users\sh.NT-DOMAIN\Documents\Visual Studio 2013\Projects\ProjectManeger\ProjectManeger\obj\Debug\Project Manager 2.pdb
